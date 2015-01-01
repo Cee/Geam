@@ -10121,6 +10121,13 @@ form .btn {
 #footer .bottom-menu-inverse ul.bottom-icons li a:hover {
   color: #FF69B4;
 }
+.pull-left ul, #features .col-md-4 p {
+    color: #526476;
+}
+
+.bottom-menu-inverse .col-md-8 {
+  text-align: right;
+}
 /* ========== 14. MEDIA QUERIES ========== */
 @media (max-width: 991px) {
   body {
@@ -10198,6 +10205,7 @@ form .btn {
     text-align: center;
   }
 }
+
 /* ========== Small devices (tablets, 768px and up) ========== */
 @media (max-width: 767px) {
   #header .navbar {
@@ -10218,7 +10226,7 @@ form .btn {
   #hero {
     text-align: center;
     height: auto;
-    background-color: #fff;
+    background-color: #DB7093;
     padding: 48px 0;
   }
   #hero .intro {
@@ -10245,8 +10253,8 @@ form .btn {
   .project {
     text-align: center;
   }
+  .bottom-menu-inverse .col-md-8 {
+    text-align: center;
+  }
 }
 
-.pull-left ul, #features .col-md-4 p {
-    color: #526476;
-}
