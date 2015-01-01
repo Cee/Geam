@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg2">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <g
+     id="g4"
+     style="stroke:#777777">
+    <path
+       d="m 25.932037,35.186401 c 0,6.908441 -5.486102,12.508376 -12.254111,12.508376 -6.768008,0 -12.25411,-5.599935 -12.25411,-12.508376 0,-6.907974 5.486102,-12.508377 12.25411,-12.508377 6.768009,0 12.254111,5.600403 12.254111,12.508377 z"
+       transform="matrix(8.53221,0,0,8.35877,11.29701,-166.11515)"
+       id="path6"
+       style="fill:#ffffff;stroke-width:0.5" />
+    <path
+       d="m 82.939676,171.71646 c 4.782882,46.54001 45.752464,53.13059 75.836194,14.62467 l 13.93957,16.81295 0.0707,-52.61947 -42.52409,-0.53681 13.68086,16.59978 c -24.92493,41.42111 -55.384568,29.78098 -61.003294,5.11888 z"
+       id="path8"
+       style="fill:#00ff00;stroke-width:2.56038666" />
+    <text
+       x="44.286007"
+       y="155.45285"
+       transform="scale(0.98573242,1.0144741)"
+       id="text2991"
+       xml:space="preserve"
+       style="font-size:55.53123474px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="44.286007"
+         y="155.45285"
+         id="tspan2993">中</tspan></text>
+    <text
+       x="143.89082"
+       y="119.63965"
+       transform="scale(0.90403931,1.1061466)"
+       id="text2995"
+       xml:space="preserve"
+       style="font-size:81.89822388px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="143.89082"
+         y="119.63965"
+         id="tspan2997">En</tspan></text>
+  </g>
+</svg>
