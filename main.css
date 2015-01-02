@@ -9780,6 +9780,16 @@ form .btn {
 #info .info-section-white {
   background-color: white;
 }
+
+#contact {
+  padding: 0;
+}
+#contact .info-section-white,
+#contact .info-section-white {
+  padding: 72px 0;
+  -webkit-backface-visibility: hidden;
+  background-color: white;
+}
 /* Initial state (hidden or anything else) */
 .cbp-so-init .cbp-so-side {
   opacity: 0;
@@ -10257,4 +10267,3 @@ form .btn {
     text-align: center;
   }
 }
-
