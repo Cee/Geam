@@ -10214,6 +10214,9 @@ form .btn {
     border: none;
     text-align: center;
   }
+  #header .navbar .navbar-inner .container .main-nav ul.nav.pull-left {
+    display: none;
+  }
 }
 
 /* ========== Small devices (tablets, 768px and up) ========== */
@@ -10266,4 +10269,8 @@ form .btn {
   .bottom-menu-inverse .col-md-8 {
     text-align: center;
   }
+  #header .navbar .navbar-inner .container .main-nav ul.nav.pull-left {
+    display: none;
+  }
 }
+
